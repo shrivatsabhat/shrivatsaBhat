@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I like video editing
 
-<br />
 
 ### Connect with me:
 
