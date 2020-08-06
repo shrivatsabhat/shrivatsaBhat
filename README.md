@@ -1,9 +1,10 @@
-### Hi there, I'm Shrivatsa Bhat 👋
+## Hi there, I'm Shrivatsa Bhat 👋
 
 <!--
-**shrivatsaBhat/shrivatsaBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**shrivatsaBhat/shrivatsaBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## I'm a Student and Developer!
+### I'm a Student and Developer!
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything 🤣
@@ -25,7 +26,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c-programming/c-programming.png" />]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" />]
 [<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
