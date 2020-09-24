@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React JS
 - ⚡ Fun fact: I like video editing
 
 
