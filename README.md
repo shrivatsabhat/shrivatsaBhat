@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning ReactJS
 - ⚡ Fun fact: I like video editing
 
 
@@ -36,7 +36,7 @@
 <br />
 
 [website]: https://www.google.in/
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/VatsaPolali
 [youtube]: https://www.youtube.com/channel/UCfFlXx_F3u5C8FdFmmKP76w/featured?view_as=subscriber
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/pshrivatsabhat
