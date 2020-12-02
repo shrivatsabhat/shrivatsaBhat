@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React
 - ⚡ Fun fact: I like video editing
 
 
@@ -31,11 +31,12 @@
 [<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-<!-- [<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />][website] -->
-<!-- [<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>][website] -->
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />][website] 
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>][website]
 
 <br />
 <br />
+![ShrivatsaBhat's github stats](https://github-readme-stats.vercel.app/api?username=shrivatsaBhat)
 
 [website]: https://www.google.in/
 [twitter]: https://twitter.com/VatsaPolali
