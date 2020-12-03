@@ -37,8 +37,8 @@
 <br />
 <br />
 
-![ShrivatsaBhat's github stats]( https://github-readme-stats-ssggoku.vercel.app/api/?username=shrivatsaBhat)
-![ShrivatsaBhat's Language stats]( https://github-readme-stats-ssggoku.vercel.app/api/top-langs/?username=shrivatsaBhat)
+![ShrivatsaBhat's github stats]( https://github-readme-stats-ssggoku.vercel.app/api/?username=shrivatsaBhat&count_private=true)
+![ShrivatsaBhat's Language stats]( https://github-readme-stats-ssggoku.vercel.app/api/top-langs/?username=shrivatsaBhat&count_private=true&layout=compact)
 
 [website]: https://www.google.in/
 [twitter]: https://twitter.com/VatsaPolali
