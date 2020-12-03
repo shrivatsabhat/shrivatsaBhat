@@ -37,7 +37,7 @@
 <br />
 <br />
 
-![ShrivatsaBhat's github stats](https://github-readme-stats.vercel.app/api?username=shrivatsaBhat)
+![ShrivatsaBhat's github stats]( https://github-readme-stats-ssggoku.vercel.app/api/?username=shrivatsaBhat)
 
 [website]: https://www.google.in/
 [twitter]: https://twitter.com/VatsaPolali
