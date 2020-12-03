@@ -38,6 +38,7 @@
 <br />
 
 ![ShrivatsaBhat's github stats]( https://github-readme-stats-ssggoku.vercel.app/api/?username=shrivatsaBhat)
+![ShrivatsaBhat's Language stats]( https://github-readme-stats-ssggoku.vercel.app/api/top-langs/?username=shrivatsaBhat)
 
 [website]: https://www.google.in/
 [twitter]: https://twitter.com/VatsaPolali
