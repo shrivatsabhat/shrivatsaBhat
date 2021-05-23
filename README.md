@@ -6,8 +6,8 @@
 ### I'm a Student and Developer!
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on one of Typscript Project
+- 🌱 I’m currently learning Funtional Programming in Javascript 
 - ⚡ Fun fact: I like video editing
 
 
