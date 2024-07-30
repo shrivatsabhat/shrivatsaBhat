@@ -6,10 +6,10 @@ Web Developer and Designer
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [shrivatsabhat.com](http://shrivatsabhat.com/) <sub><i>under-development</i></sub>
-* ✉️  You can contact me at [hello@shrivatsabhat.com](mailto:hello@shrivatsabhat.com)
-* 🚀  I'm currently working on [Web App](http://cliqbite.com)
-* 🧠  I'm learning Backend and Devops Concepts
-* ⚡  Interesting is I switched carrier from electronics and communication engineer to software developer
+* ✉️  You can contact me at [contact@shrivatsabhat.com](mailto:contact@shrivatsabhat.com)
+* 🚀  I'm currently working on [Web Apps](#)
+* 🧠  I'm learning Backend and DevOps Concepts
+* ⚡  Interesting is I switched my career from electronics and communication engineer to software developer
 
 ### Skills
 
