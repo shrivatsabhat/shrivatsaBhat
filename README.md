@@ -5,7 +5,7 @@ Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [shrivatsabhat.com](http://shrivatsabhat.com/under-development)
+* 🖥️  See my portfolio at [shrivatsabhat.com](http://shrivatsabhat.com/) <sub><i>under-development</i></sub>
 * ✉️  You can contact me at [hello@shrivatsabhat.com](mailto:hello@shrivatsabhat.com)
 * 🚀  I'm currently working on [Web App](http://cliqbite.com)
 * 🧠  I'm learning Backend and Devops Concepts
